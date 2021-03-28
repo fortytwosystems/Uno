@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Uno-rescue")(type "Legacy")(uri "${KIPRJMOD}/Uno-rescue.lib")(options "")(descr ""))
+)
